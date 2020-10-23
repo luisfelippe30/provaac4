@@ -1,6 +1,6 @@
 importar  os 
 from  flask  import  Flask , jsonify , request
-de  matemática  import  sqrt
+from math  import  sqrt
 
 app  =  Flask ( __name__ )
 
